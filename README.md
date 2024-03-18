@@ -1,16 +1,6 @@
 
 布咕是一款基于原生Android的IM应用，包含了通讯录，群聊，单聊，表情包，朋友圈，公众号等一系列完整的业务功能，遵循Google Material Design UI设计规范，可能是微信之外体验最好的即时通讯App，可以下载试试体验
 
-### 声明
-
-**1、已经永久关闭开源代码(体验版)公开下载。**
- 
-**2、获取源码授权需要收费并实名制，验证个人或者企业身份。** 
-
-**3、任何个人或者组织不得使用本项目做违法业务。**
-
-
-
 ---
 ## 官网 [http://farsunset.com](http://farsunset.com) 
 --- 
@@ -52,3 +42,14 @@
    <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/ms_chat.jpg" width="45%"/>
    <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/ms_chat_dark.jpg" width="45%"/>
 </div>
+
+
+### 声明
+
+**1、已经永久关闭开源代码(体验版)公开下载。**
+ 
+**2、获取源码授权需要收费并实名制，验证个人或者企业身份。** 
+
+**3、任何个人或者组织不得使用本项目做违法业务。**
+
+
