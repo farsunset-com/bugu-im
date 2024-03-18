@@ -19,7 +19,7 @@
 匠心独运，全组件全方位的色彩适配
 暗黑与光亮，你来选择
 <div align="center">
-   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/single_chatting_dark.jpg" width="45%"  />
+   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/p2p_chatting_dark.jpg" width="45%"  />
    <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/single_chatting_light.jpg" width="45%" />
 </div>
 
